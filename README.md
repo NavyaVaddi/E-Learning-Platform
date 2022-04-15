@@ -9,4 +9,5 @@ Building an E-Learning Platform, creating	a	custom Content	Management	System	(CM
 - Build	formsets
 - Manage	groups	and	permissions
 - Create	a	CMS
-- 
+
+
